@@ -1,0 +1,58 @@
+.MainDiv{
+    border-radius:0%;
+    padding: 30px 30px;
+    gap:2px;
+    display:flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #201c1c;
+    -webkit-border-radius:0%;
+    -moz-border-radius:0%;
+    -ms-border-radius:0%;
+    -o-border-radius:0%;
+}
+
+p{
+  text-align: center;
+    color:violet;
+}
+h1{
+   text-align: center;
+    color: brown;
+}
+from{
+    background-color: aqua;
+}
+
+button {
+    
+      padding: 15px 25px;
+      font-size: 24px;
+      text-align: center;
+      cursor: pointer;
+      outline: none;
+      color: #fff;
+      background-color: #04AA6D;
+      border: none;
+      border-radius: 15px;
+      box-shadow: 0 9px #999;
+     
+}
+button:hover {background-color: #3e8e41}
+
+button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.ButtonDiv{
+      text-align: center;
+   
+}
+ 
+.First{
+  background-color: #2d2e36;
+}
+  

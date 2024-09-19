@@ -1,0 +1,49 @@
+/* * {
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+  }
+     */
+.FirstDiv{
+    background-color: white;
+}
+h1 {
+    font-size: 3.2em;
+    line-height: 1.1;
+    color:black;
+  }
+
+  p{
+    font-size: 2em;
+    color:blueviolet;
+  }
+  button {
+    background-color: #47317b;
+    font-size: large;
+    cursor: pointer;
+  }
+  .buttonsDiv{
+    display:flex;
+    gap: 10px;
+    padding-top: 10px;
+  }
+
+
+  .mainDiv input{
+    padding: 10px;
+    border-radius:5px;
+    -webkit-border-radius:5px ;
+    -moz-border-radius:5px ;
+    -ms-border-radius:5px ;
+    -o-border-radius:5px ;
+}
+  label{
+  width: 3rem;
+  height: 3rem;
+  border-radius: 80%;
+  -webkit-border-radius: 80%;
+  -moz-border-radius: 80%;
+  -ms-border-radius: 80%;
+  -o-border-radius: 80%;
+}
+  
